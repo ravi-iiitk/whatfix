@@ -101,3 +101,38 @@ INFO    2018-04-13 14:59:08,615 [main] commonlib.Utility  - Option Slide is clic
 INFO    2018-04-13 14:59:10,916 [main] commonlib.Utility  - Next button is clicked
 INFO    2018-04-13 14:59:27,235 [main] commonlib.Utility  - Close button is clicked
 INFO    2018-04-13 14:59:30,759 [main]   - Browser Closed
+INFO    2018-04-13 19:52:18,780 [main]   - Browser Opened
+INFO    2018-04-13 19:52:33,779 [main]   - Navigated to website
+INFO    2018-04-13 19:54:23,288 [main]   - Browser Opened
+INFO    2018-04-13 19:54:41,153 [main]   - Navigated to website
+INFO    2018-04-13 19:54:44,588 [main] commonlib.Utility  - Clicked on the Selp Help Link
+INFO    2018-04-13 19:54:48,472 [main] commonlib.Utility  - Link 'How to embed flow is clicked'
+INFO    2018-04-13 19:54:49,585 [main] commonlib.Utility  - Embed element is clicked
+INFO    2018-04-13 19:54:53,022 [main]   - Browser Closed
+INFO    2018-04-13 19:55:38,238 [main]   - Browser Opened
+INFO    2018-04-13 19:55:53,503 [main]   - Navigated to website
+INFO    2018-04-13 19:55:56,635 [main] commonlib.Utility  - Clicked on the Selp Help Link
+INFO    2018-04-13 19:56:00,886 [main] commonlib.Utility  - Link 'How to embed flow is clicked'
+INFO    2018-04-13 19:56:01,709 [main] commonlib.Utility  - Embed element is clicked
+INFO    2018-04-13 19:56:02,861 [main] commonlib.Utility  - Option Slide is clicked
+INFO    2018-04-13 19:56:04,420 [main] commonlib.Utility  - Next button is clicked
+INFO    2018-04-13 19:56:20,040 [main] commonlib.Utility  - Close button is clicked
+INFO    2018-04-13 19:56:22,362 [main]   - Browser Closed
+INFO    2018-04-13 23:04:22,956 [main]   - Browser Opened
+INFO    2018-04-13 23:04:47,383 [main]   - Navigated to website
+INFO    2018-04-13 23:04:51,210 [main] commonlib.Utility  - Clicked on the Selp Help Link
+INFO    2018-04-13 23:04:56,251 [main] commonlib.Utility  - Link 'How to embed flow is clicked'
+INFO    2018-04-13 23:04:57,829 [main] commonlib.Utility  - Embed element is clicked
+INFO    2018-04-13 23:05:00,525 [main] commonlib.Utility  - Option Slide is clicked
+INFO    2018-04-13 23:05:02,632 [main] commonlib.Utility  - Next button is clicked
+INFO    2018-04-13 23:05:18,913 [main] commonlib.Utility  - Close button is clicked
+INFO    2018-04-13 23:05:21,317 [main]   - Browser Closed
+INFO    2018-04-13 23:07:06,690 [main]   - Browser Opened
+INFO    2018-04-13 23:07:23,759 [main]   - Navigated to website
+INFO    2018-04-13 23:07:27,148 [main] commonlib.Utility  - Clicked on the Selp Help Link
+INFO    2018-04-13 23:07:30,856 [main] commonlib.Utility  - Link 'How to embed flow is clicked'
+INFO    2018-04-13 23:07:31,748 [main] commonlib.Utility  - Embed element is clicked
+INFO    2018-04-13 23:07:33,102 [main] commonlib.Utility  - Option Slide is clicked
+INFO    2018-04-13 23:07:34,586 [main] commonlib.Utility  - Next button is clicked
+INFO    2018-04-13 23:07:45,559 [main] commonlib.Utility  - Close button is clicked
+INFO    2018-04-13 23:07:51,352 [main]   - Browser Closed

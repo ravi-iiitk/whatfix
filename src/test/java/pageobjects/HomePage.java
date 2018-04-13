@@ -51,7 +51,7 @@ public class HomePage {
             nextBtn.click();
             logger.info("Next button is clicked");
             Utility.captureScreenShot(driver,"Next_Clicked");
-            driver.manage().timeouts().implicitlyWait(15, TimeUnit.SECONDS);
+            driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
             HomePage.clickOnCloseButton(driver);
             logger.info("Close button is clicked");
     }
