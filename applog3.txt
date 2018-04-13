@@ -1,0 +1,103 @@
+INFO    2018-04-13 11:55:45,861 [main]   - Browser Opened
+INFO    2018-04-13 11:56:27,796 [main]   - Navigated to website
+INFO    2018-04-13 11:56:37,167 [main]   - Browser Closed
+INFO    2018-04-13 12:12:24,848 [main]   - Browser Opened
+INFO    2018-04-13 12:13:06,738 [main]   - Navigated to website
+INFO    2018-04-13 12:13:13,616 [main] commonlib.Utility  - Clicked on the Selp Help Link
+INFO    2018-04-13 12:13:39,802 [main]   - Browser Closed
+INFO    2018-04-13 12:41:20,366 [main]   - Browser Opened
+INFO    2018-04-13 12:41:42,032 [main]   - Navigated to website
+INFO    2018-04-13 12:41:46,454 [main] commonlib.Utility  - Clicked on the Selp Help Link
+INFO    2018-04-13 12:42:30,182 [main]   - Browser Closed
+INFO    2018-04-13 12:52:01,565 [main]   - Browser Opened
+INFO    2018-04-13 12:52:19,442 [main]   - Navigated to website
+INFO    2018-04-13 12:52:22,059 [main] commonlib.Utility  - Clicked on the Selp Help Link
+INFO    2018-04-13 12:53:05,368 [main]   - Browser Closed
+INFO    2018-04-13 13:04:17,757 [main]   - Browser Opened
+INFO    2018-04-13 13:04:24,802 [main]   - Navigated to website
+INFO    2018-04-13 13:04:40,510 [main] commonlib.Utility  - Clicked on the Selp Help Link
+INFO    2018-04-13 13:04:52,030 [main]   - Browser Closed
+INFO    2018-04-13 13:21:54,996 [main]   - Browser Opened
+INFO    2018-04-13 13:22:29,511 [main]   - Navigated to website
+INFO    2018-04-13 13:22:33,123 [main] commonlib.Utility  - Clicked on the Selp Help Link
+INFO    2018-04-13 13:30:36,348 [main]   - Browser Opened
+INFO    2018-04-13 13:31:02,877 [main]   - Navigated to website
+INFO    2018-04-13 13:31:06,469 [main] commonlib.Utility  - Clicked on the Selp Help Link
+INFO    2018-04-13 13:38:11,261 [main]   - Browser Opened
+INFO    2018-04-13 13:39:17,351 [main]   - Navigated to website
+INFO    2018-04-13 13:39:26,341 [main] commonlib.Utility  - Clicked on the Selp Help Link
+INFO    2018-04-13 13:40:18,091 [main]   - Browser Closed
+INFO    2018-04-13 13:41:56,214 [main]   - Browser Opened
+INFO    2018-04-13 13:42:53,124 [main]   - Navigated to website
+INFO    2018-04-13 13:43:01,778 [main] commonlib.Utility  - Clicked on the Selp Help Link
+INFO    2018-04-13 13:43:33,662 [main]   - Browser Closed
+INFO    2018-04-13 13:45:27,511 [main]   - Browser Opened
+INFO    2018-04-13 13:46:30,089 [main]   - Navigated to website
+INFO    2018-04-13 13:46:37,509 [main] commonlib.Utility  - Clicked on the Selp Help Link
+INFO    2018-04-13 13:46:48,769 [main]   - Browser Closed
+INFO    2018-04-13 13:52:39,457 [main]   - Browser Opened
+INFO    2018-04-13 13:53:39,348 [main]   - Navigated to website
+INFO    2018-04-13 13:53:46,996 [main] commonlib.Utility  - Clicked on the Selp Help Link
+INFO    2018-04-13 13:53:58,058 [main]   - Browser Closed
+INFO    2018-04-13 13:54:58,734 [main]   - Browser Opened
+INFO    2018-04-13 13:55:25,634 [main]   - Navigated to website
+INFO    2018-04-13 13:55:29,184 [main] commonlib.Utility  - Clicked on the Selp Help Link
+INFO    2018-04-13 13:55:39,515 [main]   - Browser Closed
+INFO    2018-04-13 13:57:25,634 [main]   - Browser Opened
+INFO    2018-04-13 13:57:54,048 [main]   - Navigated to website
+INFO    2018-04-13 13:57:57,826 [main] commonlib.Utility  - Clicked on the Selp Help Link
+INFO    2018-04-13 13:58:08,193 [main]   - Browser Closed
+INFO    2018-04-13 14:08:47,567 [main]   - Browser Opened
+INFO    2018-04-13 14:09:17,533 [main]   - Navigated to website
+INFO    2018-04-13 14:09:22,703 [main] commonlib.Utility  - Clicked on the Selp Help Link
+INFO    2018-04-13 14:09:44,564 [main]   - Browser Closed
+INFO    2018-04-13 14:11:08,845 [main]   - Browser Opened
+INFO    2018-04-13 14:11:42,377 [main]   - Navigated to website
+INFO    2018-04-13 14:11:47,068 [main] commonlib.Utility  - Clicked on the Selp Help Link
+INFO    2018-04-13 14:12:07,108 [main]   - Browser Closed
+INFO    2018-04-13 14:13:43,075 [main]   - Browser Opened
+INFO    2018-04-13 14:14:08,059 [main]   - Navigated to website
+INFO    2018-04-13 14:14:11,606 [main] commonlib.Utility  - Clicked on the Selp Help Link
+INFO    2018-04-13 14:14:18,852 [main] commonlib.Utility  - Link 'How to embed flow is cliecked'
+INFO    2018-04-13 14:14:36,334 [main]   - Browser Closed
+INFO    2018-04-13 14:18:19,024 [main]   - Browser Opened
+INFO    2018-04-13 14:18:43,797 [main]   - Navigated to website
+INFO    2018-04-13 14:18:47,482 [main] commonlib.Utility  - Clicked on the Selp Help Link
+INFO    2018-04-13 14:18:53,305 [main] commonlib.Utility  - Link 'How to embed flow is cliecked'
+INFO    2018-04-13 14:19:01,976 [main]   - Browser Closed
+INFO    2018-04-13 14:31:49,482 [main]   - Browser Opened
+INFO    2018-04-13 14:32:14,504 [main]   - Navigated to website
+INFO    2018-04-13 14:32:19,048 [main] commonlib.Utility  - Clicked on the Selp Help Link
+INFO    2018-04-13 14:32:25,863 [main] commonlib.Utility  - Link 'How to embed flow is clicked'
+INFO    2018-04-13 14:32:27,757 [main] commonlib.Utility  - Embed element is clicked
+INFO    2018-04-13 14:32:29,851 [main] commonlib.Utility  - Option Slide is clicked
+INFO    2018-04-13 14:32:32,479 [main] commonlib.Utility  - Next button is clicked
+INFO    2018-04-13 14:32:35,851 [main]   - Browser Closed
+INFO    2018-04-13 14:38:26,067 [main]   - Browser Opened
+INFO    2018-04-13 14:38:56,564 [main]   - Navigated to website
+INFO    2018-04-13 14:39:00,995 [main] commonlib.Utility  - Clicked on the Selp Help Link
+INFO    2018-04-13 14:39:08,712 [main] commonlib.Utility  - Link 'How to embed flow is clicked'
+INFO    2018-04-13 14:39:11,067 [main] commonlib.Utility  - Embed element is clicked
+INFO    2018-04-13 14:39:14,438 [main] commonlib.Utility  - Option Slide is clicked
+INFO    2018-04-13 14:39:18,058 [main] commonlib.Utility  - Next button is clicked
+INFO    2018-04-13 14:39:28,330 [main] commonlib.Utility  - Next button is clicked
+INFO    2018-04-13 14:39:31,029 [main]   - Browser Closed
+INFO    2018-04-13 14:53:05,247 [main]   - Browser Opened
+INFO    2018-04-13 14:55:03,407 [main]   - Browser Opened
+INFO    2018-04-13 14:55:38,033 [main]   - Navigated to website
+INFO    2018-04-13 14:55:47,048 [main] commonlib.Utility  - Clicked on the Selp Help Link
+INFO    2018-04-13 14:55:59,115 [main] commonlib.Utility  - Link 'How to embed flow is clicked'
+INFO    2018-04-13 14:56:01,653 [main] commonlib.Utility  - Embed element is clicked
+INFO    2018-04-13 14:56:04,620 [main] commonlib.Utility  - Option Slide is clicked
+INFO    2018-04-13 14:56:07,650 [main] commonlib.Utility  - Next button is clicked
+INFO    2018-04-13 14:56:24,313 [main] commonlib.Utility  - Close button is clicked
+INFO    2018-04-13 14:56:26,969 [main]   - Browser Closed
+INFO    2018-04-13 14:58:09,025 [main]   - Browser Opened
+INFO    2018-04-13 14:58:45,583 [main]   - Navigated to website
+INFO    2018-04-13 14:58:51,341 [main] commonlib.Utility  - Clicked on the Selp Help Link
+INFO    2018-04-13 14:59:03,279 [main] commonlib.Utility  - Link 'How to embed flow is clicked'
+INFO    2018-04-13 14:59:05,660 [main] commonlib.Utility  - Embed element is clicked
+INFO    2018-04-13 14:59:08,615 [main] commonlib.Utility  - Option Slide is clicked
+INFO    2018-04-13 14:59:10,916 [main] commonlib.Utility  - Next button is clicked
+INFO    2018-04-13 14:59:27,235 [main] commonlib.Utility  - Close button is clicked
+INFO    2018-04-13 14:59:30,759 [main]   - Browser Closed
